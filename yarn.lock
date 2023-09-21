@@ -4809,7 +4809,7 @@ __metadata:
     gm: "npm:^1.23.1"
     google-auth-library: "npm:^8.0.2"
     got: "npm:^12.1.0"
-    graphql: "npm:^16.5.0"
+    graphql: "npm:^16.8.1"
     graphql-helix: "npm:^1.12.0"
     graphql-relay: "npm:^0.10.0"
     handlebars: "npm:^4.7.7"
@@ -8478,10 +8478,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"graphql@npm:^16.5.0":
-  version: 16.5.0
-  resolution: "graphql@npm:16.5.0"
-  checksum: 6fca73c872bb4e5ffe9417f4e4bb53baa5c8a5f1fc9ac190e7eb211f55d6b505088e4efb5b10ffce75421ada42b49a49dacf82be6cc39128bee8f1b6cba434b3
+"graphql@npm:^16.8.1":
+  version: 16.8.1
+  resolution: "graphql@npm:16.8.1"
+  checksum: e3a95625d233c1d13c6f1df659f66955f582cb95dddb8407558090376088abcc414f39ed387a549541fca8cee681f3a5976253b6f53a5d47930dd129a5030143
   languageName: node
   linkType: hard
 
@@ -14222,7 +14222,7 @@ __metadata:
     eslint-plugin-react: "npm:^7.30.0"
     eslint-plugin-react-hooks: "npm:^4.5.0"
     got: "npm:^12.1.0"
-    graphql: "npm:^16.5.0"
+    graphql: "npm:^16.8.1"
     history: "npm:^5.3.0"
     html-webpack-plugin: "npm:^5.5.0"
     http-proxy-middleware: "npm:^2.0.6"
